@@ -9,10 +9,10 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>vercheck</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	 <scm>
            <developerConnection>scm:git:https://github.com/M-k-03/versioncheck.git</developerConnection>
-    <tag>vercheck-0.0.3</tag>
+    <tag>HEAD</tag>
   </scm>
 	<name>vercheck</name>
 	<description>Demo project for Spring Boot check version</description>
