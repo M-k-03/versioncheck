@@ -12,7 +12,6 @@
 	<version>0.0.3-SNAPSHOT</version>
 	 <scm>
            <developerConnection>scm:git:https://github.com/M-k-03/versioncheck.git</developerConnection>
-          <tag>HEAD</tag>
   </scm>
 	<name>vercheck</name>
 	<description>Demo project for Spring Boot check version</description>
